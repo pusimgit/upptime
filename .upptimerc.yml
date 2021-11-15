@@ -16,6 +16,9 @@ sites:
       - 201
       - 404
     maxResponseTime: 5000
+  - name: BP3M
+    url: https://bp3m.unmer.ac.id/
+    maxResponseTime: 5000
   - name: Unmer Site
     url: https://unmer.ac.id/
     maxResponseTime: 5000
