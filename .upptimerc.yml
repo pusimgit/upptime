@@ -6,11 +6,11 @@ sites:
   - name: SIM
     url: https://siakad.unmer.ac.id/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: PAYMENT GATEWAY
     url: https://payment.unmer.ac.id/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: API
     url: https://api.unmer.ac.id/
     expectedStatusCodes:
@@ -18,27 +18,27 @@ sites:
       - 201
       - 404
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: BP3M
     url: https://bp3m.unmer.ac.id/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Unmer Site
     url: https://unmer.ac.id/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Development Site
     url: https://dev.unmer.ac.id/siakad/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: SISTER
     url: https://sister.unmer.ac.id/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: ECLASS
     url: https://eclass.unmer.ac.id/
     maxResponseTime: 5000
-    icon: https://www.google.com/favicon.ico
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
