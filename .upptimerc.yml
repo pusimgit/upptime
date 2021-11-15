@@ -7,7 +7,7 @@ sites:
     url: https://siakad.unmer.ac.id/
     maxResponseTime: 5000
   - name: Development Site
-    url: https://dev.unmer.ac.id/
+    url: https://dev.unmer.ac.id/siakad/
     maxResponseTime: 5000
   - name: SISTER
     url: https://sister.unmer.ac.id/
