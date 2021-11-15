@@ -6,6 +6,9 @@ sites:
   - name: SIM
     url: https://siakad.unmer.ac.id/
     maxResponseTime: 5000
+  - name: Unmer Site
+    url: https://unmer.ac.id/
+    maxResponseTime: 5000
   - name: Development Site
     url: https://dev.unmer.ac.id/siakad/
     maxResponseTime: 5000
