@@ -6,9 +6,11 @@ sites:
   - name: SIM
     url: https://siakad.unmer.ac.id/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: PAYMENT GATEWAY
     url: https://payment.unmer.ac.id/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: API
     url: https://api.unmer.ac.id/
     expectedStatusCodes:
@@ -16,39 +18,46 @@ sites:
       - 201
       - 404
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: BP3M
     url: https://bp3m.unmer.ac.id/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: Unmer Site
     url: https://unmer.ac.id/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: Development Site
     url: https://dev.unmer.ac.id/siakad/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: SISTER
     url: https://sister.unmer.ac.id/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: ECLASS
     url: https://eclass.unmer.ac.id/
     maxResponseTime: 5000
+    icon: https://www.google.com/favicon.ico
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
+    icon: https://www.google.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/logo.png
-  cname: status.unmer.ac.id
   name: Status
+  cname: status.unmer.ac.id
+  logoUrl: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.png
+  robotsText: "User-agent: * \n Disallow: /"
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: Home
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
