@@ -76,19 +76,19 @@
     "url": "https://unmer.ac.id/",
     "icon": "https://favicons.githubusercontent.com/unmer.ac.id",
     "slug": "unmer-site",
-    "status": "degraded",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 9255,
-    "timeDay": 9255,
-    "timeWeek": 9255,
-    "timeMonth": 9255,
-    "timeYear": 9255,
+    "status": "up",
+    "uptime": "91.01%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "91.01%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "91.01%",
+    "time": 8672,
+    "timeDay": 8672,
+    "timeWeek": 8672,
+    "timeMonth": 8672,
+    "timeYear": 8672,
     "dailyMinutesDown": {
-      "2021-11-15": 0
+      "2021-11-15": 39
     }
   },
   {
