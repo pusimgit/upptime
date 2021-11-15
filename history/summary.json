@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/dev.unmer.ac.id",
     "slug": "development-site",
     "status": "up",
-    "uptime": "89.63%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "89.63%",
-    "uptimeYear": "89.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1492,
     "timeDay": 1492,
     "timeWeek": 1492,
     "timeMonth": 1492,
     "timeYear": 1492,
-    "dailyMinutesDown": {
-      "2021-11-15": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SISTER",
