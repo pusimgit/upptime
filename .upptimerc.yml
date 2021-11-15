@@ -9,7 +9,7 @@ sites:
   - name: PAYMENT GATEWAY
     url: https://payment.unmer.ac.id/
     maxResponseTime: 5000
-   - name: API
+  - name: API
     url: https://api.unmer.ac.id/
     expectedStatusCodes:
       - 200
