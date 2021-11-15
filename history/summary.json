@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/dev.unmer.ac.id",
     "slug": "development-site",
     "status": "up",
-    "uptime": "1.24%",
-    "uptimeDay": "1.24%",
-    "uptimeWeek": "1.24%",
-    "uptimeMonth": "1.24%",
-    "uptimeYear": "1.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1968,
     "timeDay": 1968,
     "timeWeek": 1968,
     "timeMonth": 1968,
     "timeYear": 1968,
-    "dailyMinutesDown": {
-      "2021-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
