@@ -7,11 +7,6 @@ sites:
     url: https://siakad.unmer.ac.id/
   - name: Development Site
     url: https://dev.unmer.ac.id/siakad
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 302
     maxResponseTime: 5000
   - name: Google DNS 1
     check: "tcp-ping"
