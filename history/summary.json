@@ -148,18 +148,20 @@
     "url": "https://unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "website-unmer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2635,
-    "timeDay": 2635,
-    "timeWeek": 2635,
-    "timeMonth": 2635,
-    "timeYear": 2635,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 6145,
+    "timeDay": 6145,
+    "timeWeek": 6145,
+    "timeMonth": 6145,
+    "timeYear": 6145,
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Development",
