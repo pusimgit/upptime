@@ -57,7 +57,7 @@ sites:
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network CBN
     check: "tcp-ping"
-    url: $CBN_SITE
+    url: 103.111.201.35
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network IFORTE
