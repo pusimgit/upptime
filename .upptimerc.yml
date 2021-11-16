@@ -55,7 +55,7 @@ sites:
     url: https://jurnal.unmer.ac.id
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
-  - name: Network Unmer CBN
+  - name: Network CBN
     check: "tcp-ping"
     url: $CBN_SITE
     maxResponseTime: 5000
