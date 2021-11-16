@@ -57,12 +57,17 @@ sites:
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network Unmer CBN
     check: "tcp-ping"
-    url: 103.111.201.34
+    url: $CBN_SITE
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network IFORTE
     check: "tcp-ping"
     url: $IFORTE_SITE
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
+  - name: Network NUSA
+    check: "tcp-ping"
+    url: $NUSA_SITE
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Google DNS 1
