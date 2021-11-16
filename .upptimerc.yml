@@ -65,6 +65,11 @@ sites:
     url: $NUSA_SITE
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
+  - name: Network Cbn
+    check: "tcp-ping"
+    url: $CBN_SITE
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
