@@ -41,7 +41,7 @@ sites:
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Website Unmer
     url: https://unmer.ac.id/
-    maxResponseTime: 10000
+    maxResponseTime: 30000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Development
     url: https://dev.unmer.ac.id/siakad/
