@@ -55,6 +55,14 @@ sites:
     url: https://jurnal.unmer.ac.id
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
+  - name: Elibs
+    url: https://elibs.unmer.ac.id
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
+  - name: Dlibs
+    url: https://dlibs.unmer.ac.id
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network IFORTE
     check: "tcp-ping"
     url: $IFORTE_SITE
@@ -63,11 +71,6 @@ sites:
   - name: Network NUSA
     check: "tcp-ping"
     url: $NUSA_SITE
-    maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
-  - name: Network Cbn
-    check: "tcp-ping"
-    url: $CBN_SITE
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Google DNS 1
