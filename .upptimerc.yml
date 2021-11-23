@@ -59,8 +59,8 @@ sites:
     url: https://elibs.unmer.ac.id
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
-  - name: Dlibs
-    url: https://dlibs.unmer.ac.id
+  - name: Library
+    url: https://library.unmer.ac.id
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network IFORTE
