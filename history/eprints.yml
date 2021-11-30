@@ -1,7 +1,7 @@
 url: https://eprints.unmer.ac.id
-status: down
+status: degraded
 code: 500
-responseTime: 824
-lastUpdated: 2021-11-30T02:44:30.250Z
+responseTime: 6488
+lastUpdated: 2021-11-30T03:54:38.500Z
 startTime: Tue Nov 16 2021 05:11:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
