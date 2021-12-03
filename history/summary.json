@@ -204,9 +204,9 @@
     "url": "https://eprints.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "eprints",
-    "status": "up",
+    "status": "down",
     "uptime": "95.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "88.90%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "95.45%",
@@ -216,6 +216,7 @@
     "timeMonth": 1145,
     "timeYear": 1145,
     "dailyMinutesDown": {
+      "2021-12-03": 0,
       "2021-11-30": 1119
     }
   },
@@ -225,18 +226,17 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "jurnal",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.87%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 2342,
     "timeDay": 3541,
     "timeWeek": 2657,
     "timeMonth": 2342,
     "timeYear": 2342,
     "dailyMinutesDown": {
-      "2021-12-03": 11,
       "2021-12-02": 32
     }
   },
