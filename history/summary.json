@@ -82,10 +82,10 @@
     "url": "https://api.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.88%",
     "time": 1358,
@@ -94,6 +94,7 @@
     "timeMonth": 1358,
     "timeYear": 1358,
     "dailyMinutesDown": {
+      "2021-12-05": 2,
       "2021-12-02": 16,
       "2021-11-29": 61,
       "2021-11-24": 33,
@@ -165,18 +166,17 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "website-unmer",
     "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 6854,
     "timeDay": 10222,
     "timeWeek": 4469,
     "timeMonth": 6854,
     "timeYear": 6854,
     "dailyMinutesDown": {
-      "2021-12-05": 6,
       "2021-12-03": 27,
       "2021-12-01": 43,
       "2021-11-30": 24,
@@ -206,10 +206,10 @@
     "url": "https://eprints.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "eprints",
-    "status": "up",
+    "status": "down",
     "uptime": "95.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.90%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "88.89%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "95.99%",
     "time": 1178,
@@ -218,6 +218,7 @@
     "timeMonth": 1178,
     "timeYear": 1178,
     "dailyMinutesDown": {
+      "2021-12-05": 2,
       "2021-11-30": 1119
     }
   },
@@ -247,18 +248,18 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "91.85%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.50%",
+    "uptimeDay": "90.76%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 2714,
     "timeDay": 2583,
     "timeWeek": 2285,
     "timeMonth": 2714,
     "timeYear": 2714,
     "dailyMinutesDown": {
-      "2021-12-05": 117
+      "2021-12-05": 133
     }
   },
   {
@@ -266,10 +267,10 @@
     "url": "https://library.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1043,
@@ -277,7 +278,9 @@
     "timeWeek": 1055,
     "timeMonth": 1043,
     "timeYear": 1043,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-05": 1
+    }
   },
   {
     "name": "Network IFORTE",
