@@ -67,7 +67,7 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "98.92%",
-    "uptimeWeek": "99.10%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.89%",
     "time": 1468,
@@ -92,7 +92,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "97.21%",
-    "uptimeWeek": "98.86%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "98.77%",
     "time": 1345,
@@ -256,8 +256,8 @@
     "slug": "elibs",
     "status": "degraded",
     "uptime": "98.80%",
-    "uptimeDay": "77.38%",
-    "uptimeWeek": "96.77%",
+    "uptimeDay": "77.31%",
+    "uptimeWeek": "96.76%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.80%",
     "time": 3437,
@@ -266,7 +266,7 @@
     "timeMonth": 3437,
     "timeYear": 3437,
     "dailyMinutesDown": {
-      "2021-12-06": 0,
+      "2021-12-06": 1,
       "2021-12-05": 325
     }
   },
