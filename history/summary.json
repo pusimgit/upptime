@@ -13,7 +13,7 @@
     "time": 1647,
     "timeDay": 2094,
     "timeWeek": 1744,
-    "timeMonth": 1647,
+    "timeMonth": 1666,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -33,7 +33,7 @@
     "time": 1743,
     "timeDay": 2061,
     "timeWeek": 1465,
-    "timeMonth": 1742,
+    "timeMonth": 1736,
     "timeYear": 1743,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -53,7 +53,7 @@
     "time": 1483,
     "timeDay": 988,
     "timeWeek": 1283,
-    "timeMonth": 1488,
+    "timeMonth": 1493,
     "timeYear": 1483,
     "dailyMinutesDown": {
       "2021-12-05": 16
@@ -73,7 +73,7 @@
     "time": 1601,
     "timeDay": 1267,
     "timeWeek": 1765,
-    "timeMonth": 1612,
+    "timeMonth": 1619,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2021-12-05": 16,
@@ -98,7 +98,7 @@
     "time": 1445,
     "timeDay": 1185,
     "timeWeek": 1438,
-    "timeMonth": 1451,
+    "timeMonth": 1454,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2021-12-05": 40,
@@ -123,7 +123,7 @@
     "time": 1608,
     "timeDay": 1647,
     "timeWeek": 1970,
-    "timeMonth": 1618,
+    "timeMonth": 1617,
     "timeYear": 1608,
     "dailyMinutesDown": {}
   },
@@ -163,7 +163,7 @@
     "time": 1498,
     "timeDay": 1443,
     "timeWeek": 1456,
-    "timeMonth": 1495,
+    "timeMonth": 1496,
     "timeYear": 1498,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 6492,
     "timeDay": 2589,
     "timeWeek": 5482,
-    "timeMonth": 6527,
+    "timeMonth": 6564,
     "timeYear": 6492,
     "dailyMinutesDown": {
       "2021-12-15": 15,
@@ -260,17 +260,17 @@
     "url": "https://elibs.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.71%",
-    "uptimeDay": "89.89%",
-    "uptimeWeek": "98.56%",
+    "uptimeDay": "89.88%",
+    "uptimeWeek": "98.55%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.71%",
-    "time": 3888,
-    "timeDay": 5493,
-    "timeWeek": 4686,
-    "timeMonth": 3888,
-    "timeYear": 3888,
+    "time": 3906,
+    "timeDay": 5480,
+    "timeWeek": 4703,
+    "timeMonth": 3906,
+    "timeYear": 3906,
     "dailyMinutesDown": {
       "2021-12-15": 145,
       "2021-12-06": 64,
