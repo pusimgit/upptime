@@ -13,7 +13,7 @@
     "time": 1647,
     "timeDay": 2094,
     "timeWeek": 1744,
-    "timeMonth": 1666,
+    "timeMonth": 1675,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -33,7 +33,7 @@
     "time": 1743,
     "timeDay": 2061,
     "timeWeek": 1465,
-    "timeMonth": 1736,
+    "timeMonth": 1749,
     "timeYear": 1743,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -53,7 +53,7 @@
     "time": 1483,
     "timeDay": 988,
     "timeWeek": 1283,
-    "timeMonth": 1493,
+    "timeMonth": 1505,
     "timeYear": 1483,
     "dailyMinutesDown": {
       "2021-12-05": 16
@@ -73,7 +73,7 @@
     "time": 1601,
     "timeDay": 1267,
     "timeWeek": 1765,
-    "timeMonth": 1619,
+    "timeMonth": 1630,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2021-12-05": 16,
@@ -98,7 +98,7 @@
     "time": 1445,
     "timeDay": 1185,
     "timeWeek": 1438,
-    "timeMonth": 1454,
+    "timeMonth": 1465,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2021-12-05": 40,
@@ -123,7 +123,7 @@
     "time": 1608,
     "timeDay": 1647,
     "timeWeek": 1970,
-    "timeMonth": 1617,
+    "timeMonth": 1624,
     "timeYear": 1608,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "time": 1604,
     "timeDay": 1108,
     "timeWeek": 1421,
-    "timeMonth": 1577,
+    "timeMonth": 1586,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2021-11-24": 33,
@@ -163,7 +163,7 @@
     "time": 1498,
     "timeDay": 1443,
     "timeWeek": 1456,
-    "timeMonth": 1496,
+    "timeMonth": 1506,
     "timeYear": 1498,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 6492,
     "timeDay": 2589,
     "timeWeek": 5482,
-    "timeMonth": 6598,
+    "timeMonth": 6551,
     "timeYear": 6492,
     "dailyMinutesDown": {
       "2021-12-15": 15,
@@ -209,7 +209,7 @@
     "time": 1405,
     "timeDay": 1352,
     "timeWeek": 1355,
-    "timeMonth": 1401,
+    "timeMonth": 1410,
     "timeYear": 1405,
     "dailyMinutesDown": {}
   },
@@ -261,17 +261,17 @@
     "url": "https://elibs.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.66%",
-    "uptimeDay": "88.12%",
+    "uptimeDay": "88.10%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "98.66%",
-    "time": 3939,
-    "timeDay": 5387,
-    "timeWeek": 4704,
-    "timeMonth": 3939,
-    "timeYear": 3939,
+    "time": 3996,
+    "timeDay": 5498,
+    "timeWeek": 4808,
+    "timeMonth": 3996,
+    "timeYear": 3996,
     "dailyMinutesDown": {
       "2021-12-16": 26,
       "2021-12-15": 145,
