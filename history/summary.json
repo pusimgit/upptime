@@ -13,7 +13,7 @@
     "time": 1647,
     "timeDay": 2094,
     "timeWeek": 1744,
-    "timeMonth": 1675,
+    "timeMonth": 1629,
     "timeYear": 1647,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -33,7 +33,7 @@
     "time": 1743,
     "timeDay": 2061,
     "timeWeek": 1465,
-    "timeMonth": 1749,
+    "timeMonth": 1804,
     "timeYear": 1743,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -53,7 +53,7 @@
     "time": 1483,
     "timeDay": 988,
     "timeWeek": 1283,
-    "timeMonth": 1505,
+    "timeMonth": 1501,
     "timeYear": 1483,
     "dailyMinutesDown": {
       "2021-12-05": 16
@@ -73,7 +73,7 @@
     "time": 1601,
     "timeDay": 1267,
     "timeWeek": 1765,
-    "timeMonth": 1630,
+    "timeMonth": 1626,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2021-12-05": 16,
@@ -98,7 +98,7 @@
     "time": 1445,
     "timeDay": 1185,
     "timeWeek": 1438,
-    "timeMonth": 1465,
+    "timeMonth": 1501,
     "timeYear": 1445,
     "dailyMinutesDown": {
       "2021-12-05": 40,
@@ -123,7 +123,7 @@
     "time": 1608,
     "timeDay": 1647,
     "timeWeek": 1970,
-    "timeMonth": 1624,
+    "timeMonth": 1637,
     "timeYear": 1608,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "time": 1604,
     "timeDay": 1108,
     "timeWeek": 1421,
-    "timeMonth": 1586,
+    "timeMonth": 1610,
     "timeYear": 1604,
     "dailyMinutesDown": {
       "2021-11-24": 33,
@@ -163,7 +163,7 @@
     "time": 1498,
     "timeDay": 1443,
     "timeWeek": 1456,
-    "timeMonth": 1506,
+    "timeMonth": 1493,
     "timeYear": 1498,
     "dailyMinutesDown": {}
   },
@@ -175,13 +175,13 @@
     "status": "up",
     "uptime": "98.91%",
     "uptimeDay": "98.94%",
-    "uptimeWeek": "98.74%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.91%",
     "time": 6492,
     "timeDay": 2589,
-    "timeWeek": 5482,
-    "timeMonth": 6551,
+    "timeWeek": 5734,
+    "timeMonth": 6459,
     "timeYear": 6492,
     "dailyMinutesDown": {
       "2021-12-15": 15,
@@ -209,7 +209,7 @@
     "time": 1405,
     "timeDay": 1352,
     "timeWeek": 1355,
-    "timeMonth": 1410,
+    "timeMonth": 1383,
     "timeYear": 1405,
     "dailyMinutesDown": {}
   },
@@ -219,15 +219,15 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "eprints",
     "status": "up",
-    "uptime": "97.35%",
+    "uptime": "97.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.35%",
-    "uptimeYear": "97.35%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.36%",
     "time": 1153,
     "timeDay": 952,
     "timeWeek": 1036,
-    "timeMonth": 1153,
+    "timeMonth": 1133,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2021-12-05": 25,
@@ -248,7 +248,7 @@
     "time": 5203,
     "timeDay": 8379,
     "timeWeek": 7662,
-    "timeMonth": 5203,
+    "timeMonth": 5514,
     "timeYear": 5203,
     "dailyMinutesDown": {
       "2021-12-16": 67,
@@ -261,19 +261,19 @@
     "url": "https://elibs.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "87.34%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
-    "time": 3976,
-    "timeDay": 5386,
-    "timeWeek": 4742,
-    "timeMonth": 3976,
-    "timeYear": 3976,
+    "status": "degraded",
+    "uptime": "98.66%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "98.66%",
+    "time": 3999,
+    "timeDay": 5397,
+    "timeWeek": 4769,
+    "timeMonth": 3999,
+    "timeYear": 3999,
     "dailyMinutesDown": {
-      "2021-12-16": 37,
+      "2021-12-16": 26,
       "2021-12-15": 145,
       "2021-12-06": 64,
       "2021-12-05": 325
@@ -292,7 +292,7 @@
     "uptimeYear": "99.93%",
     "time": 1040,
     "timeDay": 972,
-    "timeWeek": 1000,
+    "timeWeek": 998,
     "timeMonth": 1040,
     "timeYear": 1040,
     "dailyMinutesDown": {
@@ -313,7 +313,7 @@
     "time": 228,
     "timeDay": 225,
     "timeWeek": 222,
-    "timeMonth": 228,
+    "timeMonth": 226,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -331,7 +331,7 @@
     "time": 259,
     "timeDay": 233,
     "timeWeek": 228,
-    "timeMonth": 259,
+    "timeMonth": 261,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -349,7 +349,7 @@
     "time": 10,
     "timeDay": 13,
     "timeWeek": 12,
-    "timeMonth": 10,
+    "timeMonth": 11,
     "timeYear": 10,
     "dailyMinutesDown": {}
   }
