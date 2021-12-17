@@ -13,7 +13,7 @@
     "time": 1641,
     "timeDay": 1279,
     "timeWeek": 1623,
-    "timeMonth": 1619,
+    "timeMonth": 1616,
     "timeYear": 1641,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -33,7 +33,7 @@
     "time": 1734,
     "timeDay": 1324,
     "timeWeek": 1330,
-    "timeMonth": 1792,
+    "timeMonth": 1794,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2021-12-05": 17
@@ -53,7 +53,7 @@
     "time": 1488,
     "timeDay": 1750,
     "timeWeek": 1241,
-    "timeMonth": 1508,
+    "timeMonth": 1535,
     "timeYear": 1488,
     "dailyMinutesDown": {
       "2021-12-05": 16
@@ -73,7 +73,7 @@
     "time": 1594,
     "timeDay": 1145,
     "timeWeek": 1664,
-    "timeMonth": 1616,
+    "timeMonth": 1624,
     "timeYear": 1594,
     "dailyMinutesDown": {
       "2021-12-05": 16,
@@ -98,7 +98,7 @@
     "time": 1442,
     "timeDay": 1268,
     "timeWeek": 1345,
-    "timeMonth": 1497,
+    "timeMonth": 1500,
     "timeYear": 1442,
     "dailyMinutesDown": {
       "2021-12-05": 40,
@@ -123,7 +123,7 @@
     "time": 1601,
     "timeDay": 1244,
     "timeWeek": 1828,
-    "timeMonth": 1626,
+    "timeMonth": 1605,
     "timeYear": 1601,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "time": 1602,
     "timeDay": 1438,
     "timeWeek": 1311,
-    "timeMonth": 1606,
+    "timeMonth": 1588,
     "timeYear": 1602,
     "dailyMinutesDown": {
       "2021-11-24": 33,
@@ -163,7 +163,7 @@
     "time": 1497,
     "timeDay": 1460,
     "timeWeek": 1492,
-    "timeMonth": 1492,
+    "timeMonth": 1464,
     "timeYear": 1497,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 6463,
     "timeDay": 3283,
     "timeWeek": 5271,
-    "timeMonth": 4977,
+    "timeMonth": 4995,
     "timeYear": 6463,
     "dailyMinutesDown": {
       "2021-12-15": 15,
@@ -209,7 +209,7 @@
     "time": 1405,
     "timeDay": 1403,
     "timeWeek": 1397,
-    "timeMonth": 1378,
+    "timeMonth": 1376,
     "timeYear": 1405,
     "dailyMinutesDown": {}
   },
@@ -227,7 +227,7 @@
     "time": 1155,
     "timeDay": 1263,
     "timeWeek": 1091,
-    "timeMonth": 1136,
+    "timeMonth": 1141,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2021-12-05": 25,
@@ -239,19 +239,19 @@
     "url": "https://jurnal.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "jurnal",
-    "status": "degraded",
-    "uptime": "98.58%",
-    "uptimeDay": "73.98%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.58%",
-    "time": 5583,
-    "timeDay": 6340,
-    "timeWeek": 7029,
-    "timeMonth": 5801,
-    "timeYear": 5583,
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "71.51%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.50%",
+    "time": 5556,
+    "timeDay": 6253,
+    "timeWeek": 6975,
+    "timeMonth": 5799,
+    "timeYear": 5556,
     "dailyMinutesDown": {
-      "2021-12-17": 77,
+      "2021-12-17": 113,
       "2021-12-16": 337,
       "2021-12-15": 186,
       "2021-12-02": 32
@@ -271,7 +271,7 @@
     "time": 4207,
     "timeDay": 4959,
     "timeWeek": 4841,
-    "timeMonth": 4207,
+    "timeMonth": 4220,
     "timeYear": 4207,
     "dailyMinutesDown": {
       "2021-12-16": 73,
@@ -314,7 +314,7 @@
     "time": 228,
     "timeDay": 227,
     "timeWeek": 224,
-    "timeMonth": 226,
+    "timeMonth": 225,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
