@@ -53,7 +53,7 @@ sites:
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Jurnal
     url: https://jurnal.unmer.ac.id
-    maxResponseTime: 10000
+    maxResponseTime: 25000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Elibs
     url: https://elibs.unmer.ac.id
