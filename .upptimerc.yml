@@ -57,7 +57,7 @@ sites:
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Elibs
     url: https://elibs.unmer.ac.id
-    maxResponseTime: 5000
+    maxResponseTime: 25000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Library
     url: https://library.unmer.ac.id
