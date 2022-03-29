@@ -4,10 +4,10 @@
     "url": "https://migrasi.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "migrasi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1331,
@@ -15,7 +15,9 @@
     "timeWeek": 1397,
     "timeMonth": 1331,
     "timeYear": 1331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 1
+    }
   },
   {
     "name": "SIAKAD",
@@ -219,18 +221,18 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "website-unmer",
     "status": "down",
-    "uptime": "94.45%",
+    "uptime": "94.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "31.52%",
-    "uptimeMonth": "84.24%",
-    "uptimeYear": "94.45%",
+    "uptimeWeek": "30.22%",
+    "uptimeMonth": "83.94%",
+    "uptimeYear": "94.39%",
     "time": 5412,
     "timeDay": 0,
     "timeWeek": 1535,
     "timeMonth": 1681,
     "timeYear": 5412,
     "dailyMinutesDown": {
-      "2022-03-29": 60,
+      "2022-03-29": 191,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
