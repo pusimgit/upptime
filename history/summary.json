@@ -357,11 +357,11 @@
     "url": "$IFORTE_SITE",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "network-iforte",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "86.65%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.93%",
     "time": 221,
     "timeDay": 197,
@@ -369,7 +369,7 @@
     "timeMonth": 217,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-05-24": 192
+      "2022-05-24": 198
     }
   },
   {
