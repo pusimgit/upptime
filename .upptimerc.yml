@@ -63,11 +63,6 @@ sites:
     url: https://library.unmer.ac.id
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
-  - name: Network IFORTE
-    check: "tcp-ping"
-    url: $IFORTE_SITE
-    maxResponseTime: 5000
-    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Network NUSA
     check: "tcp-ping"
     url: $NUSA_SITE
