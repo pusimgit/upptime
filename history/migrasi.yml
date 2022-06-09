@@ -1,7 +1,7 @@
 url: https://migrasi.unmer.ac.id/
-status: up
+status: degraded
 code: 200
-responseTime: 1573
-lastUpdated: 2022-06-08T23:15:13.366Z
+responseTime: 21696
+lastUpdated: 2022-06-09T14:17:12.160Z
 startTime: Tue Mar 15 2022 03:51:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
