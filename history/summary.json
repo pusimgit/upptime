@@ -374,19 +374,19 @@
     "url": "$NUSA_SITE",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "network-nusa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 235,
     "timeDay": 253,
     "timeWeek": 252,
     "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-07-26": 0
+      "2022-07-26": 30
     }
   },
   {
