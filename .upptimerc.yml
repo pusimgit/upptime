@@ -6,6 +6,7 @@ sites:
   - name: MIGRASI
     url: https://migrasi.unmer.ac.id/
     maxResponseTime: 5000
+    port: 8443
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: SIAKAD
     url: https://siakad.unmer.ac.id/
@@ -46,6 +47,7 @@ sites:
   - name: Development
     url: https://dev.unmer.ac.id/siakad/
     maxResponseTime: 5000
+    port: 8787
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: Eprints
     url: https://eprints.unmer.ac.id
