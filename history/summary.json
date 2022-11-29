@@ -13,7 +13,7 @@
     "time": 1545,
     "timeDay": 1646,
     "timeWeek": 1519,
-    "timeMonth": 1664,
+    "timeMonth": 1671,
     "timeYear": 1537,
     "dailyMinutesDown": {
       "2022-10-30": 17,
@@ -46,7 +46,7 @@
     "time": 1492,
     "timeDay": 1732,
     "timeWeek": 1626,
-    "timeMonth": 1539,
+    "timeMonth": 1572,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2022-10-30": 17,
@@ -78,7 +78,7 @@
     "time": 1332,
     "timeDay": 1290,
     "timeWeek": 1251,
-    "timeMonth": 1286,
+    "timeMonth": 1289,
     "timeYear": 1332,
     "dailyMinutesDown": {
       "2022-10-30": 16,
@@ -107,7 +107,7 @@
     "time": 1322,
     "timeDay": 1469,
     "timeWeek": 1239,
-    "timeMonth": 1246,
+    "timeMonth": 1248,
     "timeYear": 1306,
     "dailyMinutesDown": {
       "2022-10-16": 31,
@@ -130,7 +130,7 @@
     "time": 1119,
     "timeDay": 1181,
     "timeWeek": 970,
-    "timeMonth": 1060,
+    "timeMonth": 1065,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2022-11-24": 160,
@@ -156,7 +156,7 @@
     "time": 1466,
     "timeDay": 1583,
     "timeWeek": 1523,
-    "timeMonth": 1633,
+    "timeMonth": 1641,
     "timeYear": 1462,
     "dailyMinutesDown": {
       "2022-08-25": 19,
@@ -180,7 +180,7 @@
     "time": 1367,
     "timeDay": 1314,
     "timeWeek": 1439,
-    "timeMonth": 1353,
+    "timeMonth": 1377,
     "timeYear": 1339,
     "dailyMinutesDown": {
       "2022-08-25": 19,
@@ -204,7 +204,7 @@
     "time": 1418,
     "timeDay": 1478,
     "timeWeek": 1457,
-    "timeMonth": 1302,
+    "timeMonth": 1336,
     "timeYear": 1415,
     "dailyMinutesDown": {
       "2022-08-25": 18,
@@ -229,7 +229,7 @@
     "time": 1210,
     "timeDay": 1405,
     "timeWeek": 1216,
-    "timeMonth": 1234,
+    "timeMonth": 1119,
     "timeYear": 1224,
     "dailyMinutesDown": {
       "2022-08-25": 18,
@@ -256,7 +256,7 @@
     "time": 3350,
     "timeDay": 2568,
     "timeWeek": 2215,
-    "timeMonth": 2367,
+    "timeMonth": 2378,
     "timeYear": 3422,
     "dailyMinutesDown": {
       "2022-08-25": 17,
@@ -277,19 +277,19 @@
     "url": "https://elibs.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.15%",
-    "time": 3873,
-    "timeDay": 0,
-    "timeWeek": 2112,
-    "timeMonth": 2220,
-    "timeYear": 3923,
+    "time": 3869,
+    "timeDay": 2229,
+    "timeWeek": 2129,
+    "timeMonth": 2083,
+    "timeYear": 3919,
     "dailyMinutesDown": {
-      "2022-11-29": 0,
+      "2022-11-29": 25,
       "2022-09-08": 132,
       "2022-09-05": 264,
       "2022-09-04": 1440,
@@ -328,7 +328,7 @@
     "time": 1194,
     "timeDay": 1433,
     "timeWeek": 1640,
-    "timeMonth": 1362,
+    "timeMonth": 1376,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2022-08-25": 16,
@@ -355,7 +355,7 @@
     "time": 8,
     "timeDay": 6,
     "timeWeek": 5,
-    "timeMonth": 6,
+    "timeMonth": 5,
     "timeYear": 8,
     "dailyMinutesDown": {}
   }
