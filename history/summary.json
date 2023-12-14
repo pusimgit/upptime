@@ -297,7 +297,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "jurnal",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.53%",
@@ -414,10 +414,10 @@
     "url": "8.8.4.4",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google-dns-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 7,
@@ -425,6 +425,8 @@
     "timeWeek": 2,
     "timeMonth": 3,
     "timeYear": 7,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 1
+    }
   }
 ]
