@@ -31,8 +31,12 @@ sites:
     url: https://bp3m.unmer.ac.id/
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
-  - name: SISTER
-    url: https://sister.unmer.ac.id/
+  - name: MBKM
+    url: https://mbkm.unmer.ac.id/
+    maxResponseTime: 5000
+    icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
+  - name: MBKM Cloud
+    url: https://mbkm-cloud.unmer.ac.id/
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: eClass
