@@ -334,7 +334,7 @@
     "url": "https://elibs.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
-    "status": "degraded",
+    "status": "down",
     "uptime": "93.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -346,7 +346,7 @@
     "timeMonth": 15685,
     "timeYear": 7146,
     "dailyMinutesDown": {
-      "2024-10-09": 1239,
+      "2024-10-09": 1245,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
