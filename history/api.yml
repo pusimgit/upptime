@@ -1,7 +1,7 @@
 url: https://api.unmer.ac.id/
-status: up
+status: degraded
 code: 404
-responseTime: 393
-lastUpdated: 2025-02-06T07:44:35.081Z
+responseTime: 20889
+lastUpdated: 2025-02-06T09:27:42.605Z
 startTime: 2021-11-15T08:41:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
