@@ -1,7 +1,7 @@
 url: https://mbkm.unmer.ac.id/
-status: degraded
-code: 502
-responseTime: 29318
-lastUpdated: 2025-02-06T19:49:54.576Z
+status: up
+code: 200
+responseTime: 738
+lastUpdated: 2025-02-06T19:59:52.030Z
 startTime: 2024-09-21T04:15:16.279Z
 generator: Upptime <https://github.com/upptime/upptime>
