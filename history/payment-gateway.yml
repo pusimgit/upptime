@@ -1,7 +1,7 @@
 url: https://payment.unmer.ac.id/
-status: degraded
+status: up
 code: 200
-responseTime: 21113
-lastUpdated: 2025-02-06T07:57:24.843Z
+responseTime: 418
+lastUpdated: 2025-02-06T08:14:28.935Z
 startTime: 2021-11-15T08:41:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
