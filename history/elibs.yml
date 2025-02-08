@@ -1,7 +1,7 @@
 url: https://elibs.unmer.ac.id
-status: down
+status: degraded
 code: 500
-responseTime: 3679
-lastUpdated: 2025-02-08T12:15:29.952Z
+responseTime: 25869
+lastUpdated: 2025-02-08T13:35:53.732Z
 startTime: 2021-11-17T02:46:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
