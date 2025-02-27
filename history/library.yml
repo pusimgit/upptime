@@ -1,7 +1,7 @@
 url: https://library.unmer.ac.id
-status: down
-code: 502
-responseTime: 2791
-lastUpdated: 2025-02-27T20:50:08.889Z
+status: degraded
+code: 200
+responseTime: 20798
+lastUpdated: 2025-02-27T21:05:02.083Z
 startTime: 2021-11-23T07:31:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
