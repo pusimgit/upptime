@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2025-03-11": 454,
+      "2025-03-11": 475,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -104,19 +104,19 @@
     "url": "https://pmb.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "pmb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "87.81%",
-    "uptimeYear": "98.98%",
-    "time": 2718,
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "87.85%",
+    "uptimeYear": "98.99%",
+    "time": 2719,
     "timeDay": 1293,
     "timeWeek": 1316,
     "timeMonth": 4257,
     "timeYear": 2928,
     "dailyMinutesDown": {
-      "2025-03-11": 20,
+      "2025-03-11": 22,
       "2025-03-04": 68,
       "2025-03-03": 445,
       "2025-03-02": 349,
@@ -131,7 +131,7 @@
       "2025-02-20": 274,
       "2025-02-19": 355,
       "2025-02-18": 514,
-      "2025-02-17": 476
+      "2025-02-17": 456
     }
   },
   {
@@ -142,7 +142,7 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.98%",
+    "uptimeWeek": "78.19%",
     "uptimeMonth": "83.32%",
     "uptimeYear": "98.61%",
     "time": 2850,
@@ -178,7 +178,7 @@
     "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.49%",
+    "uptimeMonth": "34.54%",
     "uptimeYear": "92.77%",
     "time": 4222,
     "timeDay": 1211,
@@ -252,10 +252,10 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "91.04%",
+    "uptime": "99.77%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "90.99%",
     "uptimeYear": "99.25%",
     "time": 6034,
     "timeDay": 944,
@@ -263,7 +263,6 @@
     "timeMonth": 9101,
     "timeYear": 6701,
     "dailyMinutesDown": {
-      "2025-03-11": 6,
       "2025-03-10": 35,
       "2025-03-04": 67,
       "2025-03-03": 175,
@@ -277,7 +276,7 @@
       "2025-02-22": 567,
       "2025-02-21": 391,
       "2025-02-20": 106,
-      "2025-02-19": 313
+      "2025-02-19": 340
     }
   },
   {
@@ -351,7 +350,7 @@
     "time": 5805,
     "timeDay": 1250,
     "timeWeek": 1343,
-    "timeMonth": 6688,
+    "timeMonth": 6698,
     "timeYear": 5805,
     "dailyMinutesDown": {
       "2025-03-05": 16,
@@ -376,7 +375,7 @@
     "slug": "mbkm-cloud",
     "status": "up",
     "uptime": "97.59%",
-    "uptimeDay": "97.27%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "97.59%",
@@ -419,7 +418,7 @@
     "time": 6359,
     "timeDay": 944,
     "timeWeek": 951,
-    "timeMonth": 9426,
+    "timeMonth": 9440,
     "timeYear": 6930,
     "dailyMinutesDown": {
       "2025-03-04": 66,
@@ -452,7 +451,7 @@
     "time": 6158,
     "timeDay": 1212,
     "timeWeek": 1153,
-    "timeMonth": 9154,
+    "timeMonth": 9168,
     "timeYear": 6735,
     "dailyMinutesDown": {
       "2025-03-10": 34,
@@ -487,7 +486,7 @@
     "time": 2493,
     "timeDay": 1567,
     "timeWeek": 1458,
-    "timeMonth": 3404,
+    "timeMonth": 3429,
     "timeYear": 2587,
     "dailyMinutesDown": {
       "2025-03-09": 16,
@@ -589,7 +588,7 @@
     "timeMonth": 14011,
     "timeYear": 12744,
     "dailyMinutesDown": {
-      "2025-03-11": 455,
+      "2025-03-11": 476,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -837,18 +836,19 @@
     "url": "https://library.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "85.75%",
-    "uptimeYear": "98.81%",
-    "time": 6519,
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "85.79%",
+    "uptimeYear": "98.82%",
+    "time": 6523,
     "timeDay": 1086,
     "timeWeek": 1150,
     "timeMonth": 9065,
     "timeYear": 6936,
     "dailyMinutesDown": {
+      "2025-03-11": 1,
       "2025-03-07": 19,
       "2025-03-03": 395,
       "2025-03-02": 336,
@@ -866,7 +866,7 @@
       "2025-02-18": 505,
       "2025-02-17": 547,
       "2025-02-16": 277,
-      "2025-02-15": 113
+      "2025-02-15": 96
     }
   },
   {
