@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2025-04-22": 228,
+      "2025-04-22": 261,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -190,18 +190,19 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "98.64%",
-    "time": 2764,
+    "time": 2765,
     "timeDay": 1278,
     "timeWeek": 1261,
     "timeMonth": 1302,
     "timeYear": 3021,
     "dailyMinutesDown": {
+      "2025-04-22": 2,
       "2025-04-16": 24,
       "2025-04-15": 18,
       "2025-04-13": 19,
@@ -229,7 +230,7 @@
       "2025-02-22": 538,
       "2025-02-21": 312,
       "2025-02-20": 152,
-      "2025-02-19": 107
+      "2025-02-19": 85
     }
   },
   {
@@ -367,7 +368,7 @@
     "timeMonth": 0,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2025-04-22": 229,
+      "2025-04-22": 261,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -717,7 +718,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
     "status": "down",
-    "uptime": "79.00%",
+    "uptime": "78.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -728,7 +729,7 @@
     "timeMonth": 17909,
     "timeYear": 13766,
     "dailyMinutesDown": {
-      "2025-04-22": 229,
+      "2025-04-22": 262,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
