@@ -5,7 +5,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "siakad",
     "status": "down",
-    "uptime": "92.00%",
+    "uptime": "91.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2025-04-28": 1166,
+      "2025-04-28": 1195,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -198,19 +198,19 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "98.64%",
-    "time": 2784,
+    "time": 2786,
     "timeDay": 1463,
     "timeWeek": 1317,
     "timeMonth": 1266,
     "timeYear": 2996,
     "dailyMinutesDown": {
-      "2025-04-28": 47,
+      "2025-04-28": 51,
       "2025-04-26": 28,
       "2025-04-22": 19,
       "2025-04-16": 24,
@@ -239,7 +239,7 @@
       "2025-02-23": 565,
       "2025-02-22": 538,
       "2025-02-21": 312,
-      "2025-02-20": 152
+      "2025-02-20": 136
     }
   },
   {
@@ -377,7 +377,7 @@
     "timeMonth": 0,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2025-04-28": 1166,
+      "2025-04-28": 1196,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -459,11 +459,11 @@
     "url": "https://mbkm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "mbkm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "96.74%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "96.73%",
     "uptimeYear": "98.49%",
     "time": 5540,
     "timeDay": 1289,
@@ -471,6 +471,7 @@
     "timeMonth": 3919,
     "timeYear": 5540,
     "dailyMinutesDown": {
+      "2025-04-28": 3,
       "2025-04-26": 17,
       "2025-04-23": 18,
       "2025-04-21": 16,
@@ -500,7 +501,7 @@
       "2025-02-25": 110,
       "2025-02-24": 613,
       "2025-02-23": 555,
-      "2025-02-22": 484
+      "2025-02-22": 457
     }
   },
   {
@@ -743,7 +744,7 @@
     "timeMonth": 19894,
     "timeYear": 14267,
     "dailyMinutesDown": {
-      "2025-04-28": 1167,
+      "2025-04-28": 1196,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
