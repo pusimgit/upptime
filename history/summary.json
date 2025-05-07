@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2025-05-07": 711,
+      "2025-05-07": 721,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -162,8 +162,8 @@
     "slug": "pmb",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "98.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "98.86%",
     "time": 2651,
@@ -172,7 +172,6 @@
     "timeMonth": 1382,
     "timeYear": 2807,
     "dailyMinutesDown": {
-      "2025-05-07": 3,
       "2025-05-06": 97,
       "2025-05-03": 48,
       "2025-04-29": 473,
@@ -203,7 +202,7 @@
       "2025-02-23": 360,
       "2025-02-22": 527,
       "2025-02-21": 379,
-      "2025-02-20": 238
+      "2025-02-20": 257
     }
   },
   {
@@ -211,19 +210,18 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.02%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.64%",
     "time": 2796,
-    "timeDay": 1395,
-    "timeWeek": 1386,
-    "timeMonth": 1306,
-    "timeYear": 2979,
+    "timeDay": 1173,
+    "timeWeek": 1357,
+    "timeMonth": 1301,
+    "timeYear": 2977,
     "dailyMinutesDown": {
-      "2025-05-07": 1,
       "2025-05-05": 19,
       "2025-04-30": 103,
       "2025-04-29": 22,
@@ -255,7 +253,7 @@
       "2025-02-24": 487,
       "2025-02-23": 565,
       "2025-02-22": 538,
-      "2025-02-21": 238
+      "2025-02-21": 312
     }
   },
   {
@@ -393,7 +391,7 @@
     "timeMonth": 0,
     "timeYear": 1604,
     "dailyMinutesDown": {
-      "2025-05-07": 711,
+      "2025-05-07": 721,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -769,12 +767,12 @@
     "uptimeMonth": "1.49%",
     "uptimeYear": "25.32%",
     "time": 13638,
-    "timeDay": 20181,
-    "timeWeek": 20829,
+    "timeDay": 18969,
+    "timeWeek": 20757,
     "timeMonth": 20916,
     "timeYear": 14818,
     "dailyMinutesDown": {
-      "2025-05-07": 712,
+      "2025-05-07": 722,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
