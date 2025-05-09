@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2025-05-09": 886,
+      "2025-05-09": 894,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -395,7 +395,7 @@
     "timeMonth": 0,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2025-05-09": 887,
+      "2025-05-09": 894,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -487,19 +487,19 @@
     "url": "https://mbkm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "mbkm",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.56%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "96.43%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.57%",
     "time": 5535,
     "timeDay": 6284,
     "timeWeek": 6281,
     "timeMonth": 4685,
     "timeYear": 5535,
     "dailyMinutesDown": {
-      "2025-05-09": 25,
+      "2025-05-09": 26,
       "2025-05-05": 19,
       "2025-05-02": 90,
       "2025-04-29": 16,
@@ -533,7 +533,7 @@
       "2025-02-25": 110,
       "2025-02-24": 613,
       "2025-02-23": 555,
-      "2025-02-22": 340
+      "2025-02-22": 287
     }
   },
   {
@@ -779,7 +779,7 @@
     "timeMonth": 20924,
     "timeYear": 14852,
     "dailyMinutesDown": {
-      "2025-05-09": 887,
+      "2025-05-09": 895,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
