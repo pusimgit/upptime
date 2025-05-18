@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1663,
     "dailyMinutesDown": {
-      "2025-05-18": 696,
+      "2025-05-18": 718,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -178,7 +178,7 @@
     "uptimeYear": "98.89%",
     "time": 2664,
     "timeDay": 1278,
-    "timeWeek": 1342,
+    "timeWeek": 1344,
     "timeMonth": 1382,
     "timeYear": 2771,
     "dailyMinutesDown": {
@@ -223,18 +223,19 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "98.66%",
-    "time": 2695,
+    "uptimeYear": "98.67%",
+    "time": 2697,
     "timeDay": 1223,
     "timeWeek": 1297,
     "timeMonth": 1287,
     "timeYear": 2943,
     "dailyMinutesDown": {
+      "2025-05-18": 1,
       "2025-05-16": 32,
       "2025-05-14": 41,
       "2025-05-09": 17,
@@ -269,7 +270,7 @@
       "2025-02-24": 487,
       "2025-02-23": 565,
       "2025-02-22": 538,
-      "2025-02-21": 87
+      "2025-02-21": 32
     }
   },
   {
@@ -407,7 +408,7 @@
     "timeMonth": 0,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2025-05-18": 697,
+      "2025-05-18": 718,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -508,18 +509,17 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "mbkm",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "95.61%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.62%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.62%",
     "time": 5488,
     "timeDay": 3196,
     "timeWeek": 4192,
     "timeMonth": 4604,
     "timeYear": 5488,
     "dailyMinutesDown": {
-      "2025-05-18": 5,
       "2025-05-17": 41,
       "2025-05-15": 360,
       "2025-05-14": 37,
@@ -556,7 +556,7 @@
       "2025-02-27": 140,
       "2025-02-25": 110,
       "2025-02-24": 613,
-      "2025-02-23": 291
+      "2025-02-23": 352
     }
   },
   {
@@ -804,7 +804,7 @@
     "timeMonth": 20630,
     "timeYear": 15354,
     "dailyMinutesDown": {
-      "2025-05-18": 697,
+      "2025-05-18": 718,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
