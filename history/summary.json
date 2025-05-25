@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1668,
     "dailyMinutesDown": {
-      "2025-05-25": 622,
+      "2025-05-25": 654,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -175,19 +175,19 @@
     "url": "https://pmb.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "pmb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "98.88%",
-    "time": 2574,
+    "uptimeYear": "98.89%",
+    "time": 2575,
     "timeDay": 1335,
     "timeWeek": 1231,
     "timeMonth": 1344,
     "timeYear": 2733,
     "dailyMinutesDown": {
-      "2025-05-25": 18,
+      "2025-05-25": 19,
       "2025-05-20": 60,
       "2025-05-17": 15,
       "2025-05-15": 15,
@@ -221,7 +221,7 @@
       "2025-02-24": 253,
       "2025-02-23": 360,
       "2025-02-22": 527,
-      "2025-02-21": 379
+      "2025-02-21": 343
     }
   },
   {
@@ -415,7 +415,7 @@
     "timeMonth": 0,
     "timeYear": 1614,
     "dailyMinutesDown": {
-      "2025-05-25": 622,
+      "2025-05-25": 655,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -528,7 +528,7 @@
     "uptimeYear": "98.67%",
     "time": 5473,
     "timeDay": 1696,
-    "timeWeek": 4204,
+    "timeWeek": 4350,
     "timeMonth": 4654,
     "timeYear": 5473,
     "dailyMinutesDown": {
@@ -807,8 +807,8 @@
     "status": "up",
     "uptime": "77.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "44.76%",
-    "uptimeMonth": "11.68%",
+    "uptimeWeek": "45.09%",
+    "uptimeMonth": "11.76%",
     "uptimeYear": "21.75%",
     "time": 14778,
     "timeDay": 3491,
