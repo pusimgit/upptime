@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1678,
     "dailyMinutesDown": {
-      "2025-06-03": 1296,
+      "2025-06-03": 1313,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -436,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2025-06-03": 1296,
+      "2025-06-03": 1314,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
@@ -707,19 +707,19 @@
     "url": "https://eprints.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "eprints",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "74.41%",
-    "uptimeWeek": "94.28%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "94.25%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "98.85%",
-    "time": 5945,
+    "uptimeYear": "98.88%",
+    "time": 5948,
     "timeDay": 1249,
     "timeWeek": 1119,
     "timeMonth": 1081,
     "timeYear": 6596,
     "dailyMinutesDown": {
-      "2025-06-03": 369,
+      "2025-06-03": 371,
       "2025-05-29": 208,
       "2025-03-21": 21,
       "2025-03-20": 210,
@@ -742,7 +742,7 @@
       "2025-02-22": 510,
       "2025-02-21": 252,
       "2025-02-20": 868,
-      "2025-02-19": 410
+      "2025-02-19": 276
     }
   },
   {
@@ -852,7 +852,7 @@
     "uptime": "77.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.69%",
-    "uptimeMonth": "38.99%",
+    "uptimeMonth": "39.03%",
     "uptimeYear": "21.70%",
     "time": 14778,
     "timeDay": 1648,
@@ -1168,19 +1168,19 @@
     "url": "https://library.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "94.43%",
+    "uptimeDay": "75.11%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.71%",
-    "time": 6299,
+    "time": 6302,
     "timeDay": 2197,
     "timeWeek": 1434,
     "timeMonth": 1205,
     "timeYear": 6782,
     "dailyMinutesDown": {
-      "2025-06-03": 357,
+      "2025-06-03": 358,
       "2025-05-29": 204,
       "2025-03-25": 16,
       "2025-03-23": 18,
@@ -1206,7 +1206,7 @@
       "2025-02-20": 196,
       "2025-02-19": 278,
       "2025-02-18": 505,
-      "2025-02-17": 199
+      "2025-02-17": 179
     }
   },
   {
