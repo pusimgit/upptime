@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1684,
     "dailyMinutesDown": {
-      "2025-06-08": 1417,
+      "2025-06-08": 1424,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -191,17 +191,16 @@
     "slug": "pmb",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.85%",
     "time": 2581,
     "timeDay": 1443,
     "timeWeek": 1306,
     "timeMonth": 1268,
     "timeYear": 2679,
     "dailyMinutesDown": {
-      "2025-06-08": 8,
       "2025-06-05": 102,
       "2025-06-04": 86,
       "2025-06-03": 19,
@@ -242,7 +241,7 @@
       "2025-02-25": 295,
       "2025-02-24": 253,
       "2025-02-23": 360,
-      "2025-02-22": 463
+      "2025-02-22": 527
     }
   },
   {
@@ -250,17 +249,17 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "91.98%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "91.96%",
     "uptimeWeek": "95.11%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "98.77%",
-    "time": 2730,
-    "timeDay": 4264,
-    "timeWeek": 2606,
-    "timeMonth": 2096,
-    "timeYear": 2882,
+    "uptimeYear": "98.78%",
+    "time": 2729,
+    "timeDay": 4151,
+    "timeWeek": 2590,
+    "timeMonth": 2088,
+    "timeYear": 2880,
     "dailyMinutesDown": {
       "2025-06-08": 115,
       "2025-06-07": 96,
@@ -306,7 +305,7 @@
       "2025-02-28": 619,
       "2025-02-27": 178,
       "2025-02-25": 184,
-      "2025-02-24": 149
+      "2025-02-24": 117
     }
   },
   {
@@ -446,7 +445,7 @@
     "timeMonth": 0,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2025-06-08": 1417,
+      "2025-06-08": 1424,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -567,9 +566,9 @@
     "slug": "mbkm",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "97.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "98.69%",
     "time": 5408,
     "timeDay": 4504,
@@ -577,7 +576,6 @@
     "timeMonth": 3859,
     "timeYear": 5408,
     "dailyMinutesDown": {
-      "2025-06-08": 6,
       "2025-06-05": 100,
       "2025-06-03": 15,
       "2025-06-01": 16,
@@ -621,7 +619,8 @@
       "2025-02-28": 429,
       "2025-02-27": 140,
       "2025-02-25": 110,
-      "2025-02-24": 613
+      "2025-02-24": 613,
+      "2025-02-23": 34
     }
   },
   {
@@ -726,7 +725,7 @@
     "slug": "eprints",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "80.85%",
+    "uptimeDay": "81.36%",
     "uptimeWeek": "76.07%",
     "uptimeMonth": "94.02%",
     "uptimeYear": "98.75%",
@@ -873,7 +872,7 @@
     "uptime": "77.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.70%",
+    "uptimeMonth": "55.72%",
     "uptimeYear": "21.72%",
     "time": 14759,
     "timeDay": 1382,
@@ -1190,7 +1189,7 @@
     "slug": "library",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "75.66%",
+    "uptimeDay": "76.17%",
     "uptimeWeek": "76.04%",
     "uptimeMonth": "94.02%",
     "uptimeYear": "98.48%",
