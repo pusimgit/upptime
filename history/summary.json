@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1683,
     "dailyMinutesDown": {
-      "2025-06-10": 81,
+      "2025-06-10": 103,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2025-06-10": 81,
+      "2025-06-10": 103,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -728,18 +728,19 @@
     "url": "https://eprints.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "eprints",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "51.28%",
-    "uptimeWeek": "69.11%",
-    "uptimeMonth": "92.42%",
+    "uptimeDay": "51.13%",
+    "uptimeWeek": "69.09%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "98.66%",
-    "time": 6006,
+    "time": 6009,
     "timeDay": 1141,
     "timeWeek": 929,
     "timeMonth": 987,
     "timeYear": 6526,
     "dailyMinutesDown": {
+      "2025-06-10": 2,
       "2025-06-09": 701,
       "2025-06-08": 254,
       "2025-06-07": 525,
@@ -766,7 +767,7 @@
       "2025-02-25": 171,
       "2025-02-24": 572,
       "2025-02-23": 616,
-      "2025-02-22": 327
+      "2025-02-22": 297
     }
   },
   {
@@ -877,7 +878,7 @@
     "uptime": "77.46%",
     "uptimeDay": "95.78%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "59.09%",
+    "uptimeMonth": "59.14%",
     "uptimeYear": "21.71%",
     "time": 14755,
     "timeDay": 2333,
@@ -1193,18 +1194,19 @@
     "url": "https://library.unmer.ac.id",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "library",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "54.95%",
-    "uptimeWeek": "69.61%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "54.89%",
+    "uptimeWeek": "69.60%",
     "uptimeMonth": "92.54%",
-    "uptimeYear": "98.42%",
-    "time": 6077,
+    "uptimeYear": "98.43%",
+    "time": 6080,
     "timeDay": 1101,
     "timeWeek": 1817,
     "timeMonth": 1487,
     "timeYear": 6711,
     "dailyMinutesDown": {
+      "2025-06-10": 1,
       "2025-06-09": 649,
       "2025-06-08": 334,
       "2025-06-07": 494,
@@ -1233,7 +1235,7 @@
       "2025-02-24": 473,
       "2025-02-23": 386,
       "2025-02-22": 549,
-      "2025-02-21": 357
+      "2025-02-21": 288
     }
   },
   {
