@@ -1,7 +1,7 @@
 url: https://sdm.unmer.ac.id/
-status: up
-code: 200
-responseTime: 1370
-lastUpdated: 2025-06-11T05:09:22.460Z
+status: degraded
+code: 502
+responseTime: 19949
+lastUpdated: 2025-06-11T05:55:17.706Z
 startTime: 2021-11-15T22:53:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
