@@ -27,8 +27,8 @@ sites:
       - 404
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
-  - name: BP3M
-    url: https://bp3m.unmer.ac.id/
+  - name: LPMU
+    url: https://lpmu.unmer.ac.id/
     maxResponseTime: 5000
     icon: https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico
   - name: MBKM
