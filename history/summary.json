@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "88.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.62%",
-    "uptimeMonth": "6.75%",
+    "uptimeWeek": "37.74%",
+    "uptimeMonth": "6.78%",
     "uptimeYear": "60.91%",
     "time": 1641,
     "timeDay": 0,
@@ -257,17 +257,17 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "92.79%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "92.76%",
     "uptimeWeek": "92.28%",
     "uptimeMonth": "95.93%",
-    "uptimeYear": "98.78%",
-    "time": 2620,
-    "timeDay": 2020,
-    "timeWeek": 2126,
-    "timeMonth": 2159,
-    "timeYear": 2804,
+    "uptimeYear": "98.83%",
+    "time": 2619,
+    "timeDay": 1957,
+    "timeWeek": 2122,
+    "timeMonth": 2154,
+    "timeYear": 2802,
     "dailyMinutesDown": {
       "2025-06-15": 105,
       "2025-06-13": 220,
@@ -316,7 +316,7 @@
       "2025-03-03": 424,
       "2025-03-02": 259,
       "2025-03-01": 265,
-      "2025-02-28": 296
+      "2025-02-28": 32
     }
   },
   {
@@ -628,9 +628,9 @@
     "slug": "eprints",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "60.97%",
-    "uptimeWeek": "67.80%",
-    "uptimeMonth": "86.61%",
+    "uptimeDay": "61.37%",
+    "uptimeWeek": "67.85%",
+    "uptimeMonth": "86.62%",
     "uptimeYear": "98.41%",
     "time": 6074,
     "timeDay": 822,
@@ -638,7 +638,7 @@
     "timeMonth": 1024,
     "timeYear": 6436,
     "dailyMinutesDown": {
-      "2025-06-15": 562,
+      "2025-06-15": 556,
       "2025-06-14": 207,
       "2025-06-13": 590,
       "2025-06-12": 264,
@@ -668,7 +668,7 @@
       "2025-02-28": 468,
       "2025-02-27": 111,
       "2025-02-25": 171,
-      "2025-02-24": 255
+      "2025-02-24": 272
     }
   },
   {
@@ -784,7 +784,7 @@
     "uptime": "77.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "78.59%",
+    "uptimeMonth": "78.62%",
     "uptimeYear": "21.73%",
     "time": 14729,
     "timeDay": 1377,
