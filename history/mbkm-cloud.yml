@@ -1,7 +1,7 @@
 url: https://mbkm-cloud.unmer.ac.id/
-status: down
+status: degraded
 code: 403
-responseTime: 191
-lastUpdated: 2026-01-11T23:18:00.251Z
+responseTime: 16761
+lastUpdated: 2026-01-12T19:55:16.215Z
 startTime: 2024-09-21T04:15:17.508Z
 generator: Upptime <https://github.com/upptime/upptime>
