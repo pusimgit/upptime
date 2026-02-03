@@ -1,7 +1,7 @@
 url: https://eclass.unmer.ac.id/
-status: down
+status: degraded
 code: 403
-responseTime: 57
-lastUpdated: 2026-02-02T23:26:37.160Z
+responseTime: 9289
+lastUpdated: 2026-02-03T19:11:19.255Z
 startTime: 2021-11-15T22:54:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
