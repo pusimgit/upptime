@@ -1,7 +1,7 @@
 url: https://payment.unmer.ac.id/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-23T18:27:06.827Z
+status: up
+code: 200
+responseTime: 1082
+lastUpdated: 2026-06-23T20:26:27.647Z
 startTime: 2021-11-15T08:41:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
