@@ -586,7 +586,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "28.35%",
+    "uptimeYear": "28.36%",
     "time": 1075,
     "timeDay": 1967,
     "timeWeek": 1903,
@@ -865,16 +865,16 @@
     "url": "https://payment.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "payment-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "98.33%",
     "time": 1149,
-    "timeDay": 1011,
-    "timeWeek": 1092,
-    "timeMonth": 1067,
+    "timeDay": 1055,
+    "timeWeek": 1100,
+    "timeMonth": 1070,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2026-03-24": 59,
@@ -953,7 +953,7 @@
       "2026-08-12": 138,
       "2026-08-13": 45,
       "2026-08-15": 22,
-      "2026-08-17": 61
+      "2026-08-17": 76
     }
   },
   {
@@ -973,7 +973,7 @@
     "timeMonth": 19581,
     "timeYear": 4473,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1644,7 +1644,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -2028,7 +2028,7 @@
     "timeMonth": 0,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -2412,7 +2412,7 @@
     "timeMonth": 29,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -2796,7 +2796,7 @@
     "timeMonth": 30,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -3180,7 +3180,7 @@
     "timeMonth": 31,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -3553,7 +3553,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
     "status": "down",
-    "uptime": "60.31%",
+    "uptime": "60.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3842,7 +3842,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -3921,7 +3921,7 @@
     "timeMonth": 30,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2026-08-17": 1172,
+      "2026-08-17": 1190,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
