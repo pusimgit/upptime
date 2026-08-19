@@ -4,17 +4,17 @@
     "url": "https://siakad.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "siakad",
-    "status": "degraded",
+    "status": "up",
     "uptime": "73.03%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "28.69%",
-    "time": 1362,
-    "timeDay": 14328,
-    "timeWeek": 9105,
-    "timeMonth": 4927,
-    "timeYear": 1509,
+    "time": 1363,
+    "timeDay": 11830,
+    "timeWeek": 8546,
+    "timeMonth": 4848,
+    "timeYear": 1510,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -284,7 +284,7 @@
       "2026-07-31": 122,
       "2026-08-15": 20,
       "2026-08-18": 28,
-      "2026-08-19": 12
+      "2026-08-19": 23
     }
   },
   {
@@ -292,17 +292,17 @@
     "url": "https://pmb.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "pmb",
-    "status": "degraded",
+    "status": "up",
     "uptime": "81.22%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "28.58%",
-    "time": 1251,
-    "timeDay": 13567,
-    "timeWeek": 5713,
-    "timeMonth": 3307,
-    "timeYear": 1337,
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "28.59%",
+    "time": 1252,
+    "timeDay": 11237,
+    "timeWeek": 5421,
+    "timeMonth": 3273,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -573,7 +573,7 @@
       "2026-08-10": 95,
       "2026-08-14": 85,
       "2026-08-18": 27,
-      "2026-08-19": 11
+      "2026-08-19": 22
     }
   },
   {
@@ -581,17 +581,17 @@
     "url": "https://sdm.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "sdm",
-    "status": "degraded",
+    "status": "up",
     "uptime": "81.35%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "28.73%",
-    "time": 1078,
-    "timeDay": 10845,
-    "timeWeek": 4199,
-    "timeMonth": 2730,
-    "timeYear": 1037,
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "28.74%",
+    "time": 1080,
+    "timeDay": 7928,
+    "timeWeek": 3965,
+    "timeMonth": 2711,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2026-05-06": 344,
       "2026-05-05": 1440,
@@ -856,7 +856,7 @@
       "2026-07-17": 107,
       "2026-07-24": 1,
       "2026-07-23": 18,
-      "2026-08-19": 9
+      "2026-08-19": 21
     }
   },
   {
@@ -864,16 +864,16 @@
     "url": "https://payment.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "payment-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "98.38%",
     "time": 1148,
-    "timeDay": 1036,
-    "timeWeek": 1085,
-    "timeMonth": 1067,
+    "timeDay": 1034,
+    "timeWeek": 1083,
+    "timeMonth": 1066,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-03-31": 170,
@@ -951,7 +951,7 @@
       "2026-08-15": 22,
       "2026-08-17": 76,
       "2026-08-18": 94,
-      "2026-08-19": 5
+      "2026-08-19": 16
     }
   },
   {
@@ -971,7 +971,7 @@
     "timeMonth": 19573,
     "timeYear": 4564,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1343,17 +1343,17 @@
     "url": "https://lpmu.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "lpmu",
-    "status": "degraded",
+    "status": "up",
     "uptime": "25.19%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "28.44%",
-    "time": 1294,
-    "timeDay": 11213,
-    "timeWeek": 5001,
-    "timeMonth": 4858,
-    "timeYear": 1459,
+    "time": 1296,
+    "timeDay": 8215,
+    "timeWeek": 4692,
+    "timeMonth": 4781,
+    "timeYear": 1461,
     "dailyMinutesDown": {
       "2026-05-06": 344,
       "2026-05-05": 1440,
@@ -1621,7 +1621,7 @@
       "2026-06-06": 68,
       "2026-06-08": 81,
       "2026-07-16": 135,
-      "2026-08-19": 2
+      "2026-08-19": 15
     }
   },
   {
@@ -1641,7 +1641,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -2025,7 +2025,7 @@
     "timeMonth": 0,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -2409,7 +2409,7 @@
     "timeMonth": 31,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -2793,7 +2793,7 @@
     "timeMonth": 32,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -3177,7 +3177,7 @@
     "timeMonth": 33,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -3837,7 +3837,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -3918,7 +3918,7 @@
     "timeMonth": 32,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2026-08-19": 309,
+      "2026-08-19": 324,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
