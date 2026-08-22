@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "29.61%",
+    "uptimeYear": "29.62%",
     "time": 1372,
     "timeDay": 3386,
     "timeWeek": 7035,
@@ -856,16 +856,16 @@
     "url": "https://payment.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "payment-gateway",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "95.02%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "98.42%",
     "time": 1148,
-    "timeDay": 1371,
-    "timeWeek": 1094,
-    "timeMonth": 1077,
+    "timeDay": 1296,
+    "timeWeek": 1090,
+    "timeMonth": 1076,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-04-07": 53,
@@ -941,7 +941,7 @@
       "2026-08-19": 86,
       "2026-08-20": 26,
       "2026-08-21": 57,
-      "2026-08-22": 64
+      "2026-08-22": 72
     }
   },
   {
@@ -950,7 +950,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "api",
     "status": "degraded",
-    "uptime": "75.14%",
+    "uptime": "75.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -961,7 +961,7 @@
     "timeMonth": 19563,
     "timeYear": 4700,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1628,7 +1628,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2012,7 +2012,7 @@
     "timeMonth": 0,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2396,7 +2396,7 @@
     "timeMonth": 34,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2780,7 +2780,7 @@
     "timeMonth": 33,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -3164,7 +3164,7 @@
     "timeMonth": 34,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -3821,7 +3821,7 @@
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -3905,7 +3905,7 @@
     "timeMonth": 35,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2026-08-22": 845,
+      "2026-08-22": 856,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
