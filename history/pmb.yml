@@ -1,7 +1,7 @@
 url: https://pmb.unmer.ac.id/
-status: degraded
-code: 502
-responseTime: 30974
-lastUpdated: 2026-08-22T15:08:09.162Z
+status: up
+code: 200
+responseTime: 2404
+lastUpdated: 2026-08-22T15:29:27.381Z
 startTime: 2021-11-15T22:53:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
