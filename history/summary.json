@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "34.34%",
+    "uptimeYear": "34.38%",
     "time": 1491,
     "timeDay": 2154,
     "timeWeek": 3017,
-    "timeMonth": 5501,
-    "timeYear": 1688,
+    "timeMonth": 5586,
+    "timeYear": 1691,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -255,7 +255,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-06-10": 11,
       "2026-06-09": 23,
       "2026-07-08": 102,
@@ -278,12 +277,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "34.22%",
+    "uptimeYear": "34.27%",
     "time": 1335,
     "timeDay": 1983,
     "timeWeek": 2087,
-    "timeMonth": 3746,
-    "timeYear": 1463,
+    "timeMonth": 3792,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2026-05-06": 343,
       "2026-05-05": 1440,
@@ -524,7 +523,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-06-02": 280,
       "2026-06-09": 211,
       "2026-06-22": 120,
@@ -549,12 +547,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "34.38%",
+    "uptimeYear": "34.43%",
     "time": 1045,
     "timeDay": 1949,
     "timeWeek": 2177,
-    "timeMonth": 2663,
-    "timeYear": 1112,
+    "timeMonth": 2683,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2026-05-06": 344,
       "2026-05-05": 1440,
@@ -795,7 +793,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-07-17": 107,
       "2026-07-24": 1,
       "2026-07-23": 18,
@@ -811,12 +808,12 @@
     "uptime": "99.62%",
     "uptimeDay": "87.59%",
     "uptimeWeek": "91.92%",
-    "uptimeMonth": "93.03%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "98.15%",
     "time": 1145,
     "timeDay": 1018,
     "timeWeek": 1996,
-    "timeMonth": 1216,
+    "timeMonth": 1231,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2026-05-10": 50,
@@ -900,7 +897,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "api",
     "status": "degraded",
-    "uptime": "74.40%",
+    "uptime": "74.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -908,10 +905,11 @@
     "time": 4060,
     "timeDay": 19688,
     "timeWeek": 19569,
-    "timeMonth": 19517,
-    "timeYear": 5501,
+    "timeMonth": 19513,
+    "timeYear": 5514,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -1274,8 +1272,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1283,17 +1280,17 @@
     "url": "https://lpmu.unmer.ac.id/",
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "lpmu",
-    "status": "up",
-    "uptime": "28.55%",
-    "uptimeDay": "81.70%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "34.03%",
-    "time": 1392,
-    "timeDay": 2214,
-    "timeWeek": 2835,
-    "timeMonth": 3604,
-    "timeYear": 1617,
+    "status": "down",
+    "uptime": "28.58%",
+    "uptimeDay": "81.54%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "34.08%",
+    "time": 1391,
+    "timeDay": 1901,
+    "timeWeek": 2648,
+    "timeMonth": 3552,
+    "timeYear": 1619,
     "dailyMinutesDown": {
       "2026-05-06": 344,
       "2026-05-05": 1440,
@@ -1534,7 +1531,6 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
       "2026-05-11": 101,
       "2026-06-04": 251,
       "2026-06-03": 1049,
@@ -1543,7 +1539,8 @@
       "2026-07-16": 135,
       "2026-08-19": 15,
       "2026-08-24": 46,
-      "2026-09-08": 263
+      "2026-09-08": 263,
+      "2026-09-09": 2
     }
   },
   {
@@ -1552,7 +1549,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "mbkm",
     "status": "down",
-    "uptime": "37.20%",
+    "uptime": "37.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1563,7 +1560,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -1926,8 +1924,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -1936,7 +1933,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "mbkm-cloud",
     "status": "down",
-    "uptime": "36.83%",
+    "uptime": "36.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1945,9 +1942,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 665,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -2310,8 +2308,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -2320,7 +2317,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "e-class",
     "status": "down",
-    "uptime": "74.35%",
+    "uptime": "74.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2328,10 +2325,11 @@
     "time": 497,
     "timeDay": 28,
     "timeWeek": 45,
-    "timeMonth": 42,
-    "timeYear": 452,
+    "timeMonth": 43,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -2694,8 +2692,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -2704,7 +2701,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "eprints",
     "status": "down",
-    "uptime": "74.21%",
+    "uptime": "74.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2715,7 +2712,8 @@
     "timeMonth": 36,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -3078,8 +3076,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -3097,9 +3094,10 @@
     "timeDay": 18,
     "timeWeek": 45,
     "timeMonth": 39,
-    "timeYear": 184,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -3462,8 +3460,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
@@ -3472,7 +3469,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "elibs",
     "status": "down",
-    "uptime": "59.55%",
+    "uptime": "59.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3481,7 +3478,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1823,
+    "timeYear": 1829,
     "dailyMinutesDown": {
       "2026-05-22": 277,
       "2026-05-21": 1440,
@@ -3738,8 +3735,8 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -3829,7 +3826,7 @@
     "icon": "https://raw.githubusercontent.com/pusimgit/upptime/master/assets/favicon.ico",
     "slug": "library",
     "status": "down",
-    "uptime": "74.06%",
+    "uptime": "74.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3837,10 +3834,11 @@
     "time": 441,
     "timeDay": 24,
     "timeWeek": 44,
-    "timeMonth": 40,
-    "timeYear": 410,
+    "timeMonth": 41,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2026-09-08": 1201,
+      "2026-09-09": 23,
+      "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -4203,8 +4201,7 @@
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
-      "2025-09-10": 1440,
-      "2025-09-09": 1440
+      "2025-09-10": 1440
     }
   },
   {
