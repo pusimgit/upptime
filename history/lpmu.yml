@@ -1,7 +1,7 @@
 url: https://lpmu.unmer.ac.id/
-status: up
-code: 200
-responseTime: 2942
-lastUpdated: 2026-10-15T01:13:14.980Z
+status: degraded
+code: 503
+responseTime: 6766
+lastUpdated: 2026-10-15T11:59:57.859Z
 startTime: 2025-06-13T08:28:54.260Z
 generator: Upptime <https://github.com/upptime/upptime>
