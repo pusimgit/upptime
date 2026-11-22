@@ -1,7 +1,7 @@
 url: https://siakad.unmer.ac.id/
-status: degraded
-code: 500
-responseTime: 11340
-lastUpdated: 2026-11-22T03:33:02.571Z
+status: down
+code: 520
+responseTime: 660
+lastUpdated: 2026-11-22T11:53:04.970Z
 startTime: 2021-11-15T22:53:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
